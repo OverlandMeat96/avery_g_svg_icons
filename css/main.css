@@ -1,10 +1,28 @@
 .header {
   color: black;
+  text-align: center;
   font-weight: bold;
   background-color: ;
-
   width: 100%;
-  height: 75px;
+  height: 150px;
+}
+
+.topDivider {
+  background-color: black;
+  height:4px;
+  margin: 0px 50px 0px 50px;
+}
+
+.footer {
+  background-color: black;
+  height: 40px;
+  text-align: center;
+}
+
+.footer h3{
+  color: white;
+  text-align: center;
+  padding: 10px;
 }
 
 .wrapper {
@@ -20,12 +38,11 @@
   display: flex;
   justify-content: center;
   width: 100%;
-  padding: 20px;
  }
 
 .img-wrapper img {
   width: 15%;
-  padding: 20px;
+  padding: 40px 50px 40px 50px;
 }
 
 .img-wrapper > img:hover {
@@ -33,6 +50,7 @@
 }
 
 
-#moonlight_greatsword :selected {
-  color: orange;
+
+.info {
+  margin: 20px 546px 20px 546px;
 }
