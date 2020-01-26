@@ -1,4 +1,4 @@
-![All about the Dark Souls Marketplace](dark_souls_banner.jpg "Dark Souls")
+![All about the Dark Souls Marketplace](images/dark_souls_banner.jpg "Dark Souls")
 
 # Dark Souls SVG Icon Marketplace
 
