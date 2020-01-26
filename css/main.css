@@ -1,16 +1,74 @@
-.img-wrapper {
-  display: inline-block;
-  width: 40%;
-  padding: 10px 15px;
+.fistRow {
+  display: flex;
+  justify-content: center;
  }
 
-.img-wrapper > img {width: 100%; }
+.fistRow img {
+  width: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  margin: 6px;
+}
 
-.black-background {background-color: black; }
+.secondRow {
+  display: flex;
+  justify-content: center;
+ }
+
+.secondRow img {
+  width: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  margin: 6px;
+}
+
+.thirdRow {
+  display: flex;
+  justify-content: center;
+ }
+
+.thirdRow img {
+  width: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  margin: 6px;
+}
+
+.fourthRow {
+  display: flex;
+  justify-content: center;
+ }
+
+.fourthRow img {
+  width: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  margin: 6px;
+}
+
+#moonlight_greatsword:hover{
+  color: orange;
+}
+
+
+
+
+.black-background {
+  background-color: black;
+}
 
 /* .st0{ fill:#333 !important; } */
 
 /* #rGrain, #lGrain {fill: red; } */
 
-#beerGraphic:hover #lGrain:hover {fill:red; }
-#beerGraphic:hover #rGrain:hover {fill:red; }
+#beerGraphic:hover #lGrain:hover {
+  fill:red;
+}
+
+#beerGraphic:hover #rGrain:hover {
+  fill:red;
+}

@@ -3,7 +3,7 @@
 // also called a module (it's a pattern)
 
 (() => {
-  console.log("hello from JS!");
+  console.log("Hello from JS!");
 
 // find the elements in the document
 let toggleButton = document.querySelector(".switch-text"),
